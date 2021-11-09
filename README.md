@@ -12,4 +12,13 @@ Also password generated are completely random and pretty strong.
 
 # Steps to use:-
 
-Download the entire thing as a zip file, extract it and run the pass_gen.exe and that's it.
+1.Download the entire thing as a zip file
+![image](https://user-images.githubusercontent.com/80566448/140866176-801ca547-aea7-4a53-b3be-5f8ca95066bc.png)
+
+2.Extract it
+![image](https://user-images.githubusercontent.com/80566448/140866375-8b1ae558-8ea0-4f4b-a81c-4de478a274cf.png)
+
+3. run the pass_gen.exe
+![image](https://user-images.githubusercontent.com/80566448/140866481-2e5d1545-f6bf-459e-b878-2bcc06093f78.png)
+
+and that's pretty much it.
