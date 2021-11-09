@@ -20,8 +20,8 @@ Also password generated are completely random and pretty strong.
 
 ![image](https://user-images.githubusercontent.com/80566448/140866812-91e74e10-ed2e-47d3-9167-306fbfba1dae.png)
 
-3. run the pass_gen.exe
+3. Run the pass_gen.exe
 
 ![image](https://user-images.githubusercontent.com/80566448/140866481-2e5d1545-f6bf-459e-b878-2bcc06093f78.png)
 
-and that's pretty much it.
+Choose your values and that's pretty much it.
