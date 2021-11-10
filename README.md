@@ -24,4 +24,4 @@ Also password generated are completely random and pretty strong.
 
 ![image](https://user-images.githubusercontent.com/80566448/140866481-2e5d1545-f6bf-459e-b878-2bcc06093f78.png)
 
-Choose your values and that's pretty much it.
+Choose how long your password should be and that's pretty much it.
